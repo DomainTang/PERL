@@ -39,5 +39,5 @@ The result will be stored in ./log/exp_batch_no_name/PERL_ROOM_0/.
 
 ## Statement
 
-The code is not absolutely normative, which is only for learning and testing!  
+The code based on CMAE  is not  normative, which is only for learning and testing!  
 Welcome to communicate and discuss!
